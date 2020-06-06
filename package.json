@@ -1,0 +1,26 @@
+{
+  "name": "page_transition",
+  "version": "1.0.0",
+  "description": "A transition view when toggling between different pages.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esmaeilmirzaee/page_transition.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/esmaeilmirzaee/page_transition/issues"
+  },
+  "homepage": "https://github.com/esmaeilmirzaee/page_transition#readme",
+  "devDependencies": {
+    "sass": "^1.26.8"
+  },
+  "dependencies": {
+    "@dogstudio/highway": "^2.2.1",
+    "gsap": "^3.3.1"
+  }
+}
